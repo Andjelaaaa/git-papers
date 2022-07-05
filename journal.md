@@ -11,5 +11,10 @@ This is the start of an introduction
 
 New amazing figures
 
+## Conclusion
+
+Interesting conclusion
+
+## References
 Smith, J...
 Markello, R
